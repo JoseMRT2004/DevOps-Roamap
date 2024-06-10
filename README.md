@@ -11,8 +11,8 @@ _Este plan de estudio está diseñado para guiarte a través de los fundamentos 
 | Días 1-3 | Introducción a DevOps y conceptos básicos.                                    | - Lectura de artículos introductorios sobre DevOps      | ✅   |
 |          |                                                                               | - Visionado de videos básicos de DevOps en YouTube      | ✅   |
 | Días 4-5 | Entender la cultura DevOps y sus principios.                                  | - Estudio de casos de éxito en la implementación DevOps | ✅   |
-| Días 6-7 | Conocer las herramientas fundamentales de DevOps (Git, Docker, Jenkins).      | - Instalación y configuración de Git                    | ✅   |
-|          |                                                                               | - Primeros pasos con Docker                             | ✅   |
+| Días 6-7 | Conocer las herramientas fundamentales de DevOps (Git, Docker, Jenkins).      | - Instalación y configuración de Git                    |    |
+|          |                                                                               | - Primeros pasos con Docker                             |    |
 
 **Metas Mensuales:**
 
