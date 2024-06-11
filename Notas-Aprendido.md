@@ -25,3 +25,57 @@ Al adoptar prácticas de DevOps:
 - Mejorar la telemetría.
 - Implementar con más frecuencia.
 
+<hr>
+
+# ¿Qué es GitHub?
+
+GitHub es una plataforma de Software como Servicio (SaaS) de Microsoft que proporciona repositorios basados en Git y herramientas de DevOps para desarrollar e implementar software. Tiene una amplia gama de integraciones con otras herramientas líderes.
+
+## ¿Qué proporciona GitHub?
+GitHub ofrece una variedad de servicios para el desarrollo y la implementación de software:
+
+- **Codespaces**: Entorno de desarrollo en la nube basado en Visual Studio Code. Facilita el desarrollo multiplataforma, permitiendo que los desarrolladores trabajen desde cualquier lugar con un entorno de desarrollo consistente.
+  - **Ejemplo**: Un desarrollador puede crear un Codespace para trabajar en un proyecto de Node.js sin necesidad de instalar Node.js localmente en su máquina.
+
+- **Repos**: Repositorios públicos y privados basados en Git. Permiten el control de versiones y la colaboración en proyectos de software.
+  - **Ejemplo**: Un equipo de desarrollo puede usar un repositorio privado para colaborar en el desarrollo de una aplicación interna.
+
+- **Acciones**: Permite la creación de flujos de trabajo de automatización. Estos flujos pueden incluir tareas como la integración continua (CI) y la entrega continua (CD), utilizando scripts personalizados y variables de entorno.
+  - **Ejemplo**: Un flujo de trabajo puede compilar automáticamente el código y ejecutar pruebas cada vez que se hace un commit en el repositorio.
+
+- **Packages**: Administración de paquetes que permite integrar código de otros proyectos de código abierto y de terceros.
+  - **Ejemplo**: Un proyecto puede usar GitHub Packages para gestionar dependencias como bibliotecas de terceros, asegurando que se usen versiones específicas de los paquetes.
+
+- **Seguridad**: Características de seguridad como el escaneo de código para detectar vulnerabilidades y la revisión automatizada de código.
+  - **Ejemplo**: GitHub puede escanear automáticamente el repositorio en busca de dependencias con vulnerabilidades conocidas y sugerir actualizaciones para mejorar la seguridad.
+
+En resumen, GitHub es una herramienta integral para la colaboración y la gestión del ciclo de vida del desarrollo de software, facilitando desde la codificación hasta la implementación segura y eficiente del software.
+
+<hr>
+
+# ¿Qué es Azure DevOps?
+
+Azure DevOps es una plataforma de Software como Servicio (SaaS) de Microsoft que proporciona una cadena de herramientas de DevOps de un extremo a otro para desarrollar e implementar software. Se integra con las herramientas más importantes del mercado, siendo una excelente opción para orquestar una cadena de herramientas de DevOps.
+
+## ¿Qué proporciona Azure DevOps?
+
+Azure DevOps incluye una gama de servicios que abarcan el ciclo de vida de desarrollo completo:
+
+- **Azure Boards**: Herramienta para el seguimiento de elementos de trabajo, planeamiento ágil, visualizaciones e informes.
+  - **Ejemplo**: Un equipo ágil puede usar Azure Boards para planificar sprints y rastrear el progreso de las tareas de desarrollo.
+
+- **Azure Pipelines**: Plataforma CI/CD que soporta múltiples lenguajes, plataformas y contenedores.
+  - **Ejemplo**: Una empresa puede usar Azure Pipelines para compilar, probar y desplegar automáticamente su aplicación en diferentes entornos.
+
+- **Azure Repos**: Repositorios de Git privados hospedados en la nube.
+  - **Ejemplo**: Un equipo de desarrollo puede almacenar y gestionar su código fuente en Azure Repos, aprovechando las capacidades de control de versiones de Git.
+
+- **Azure Artifacts**: Administración de paquetes compatible con Maven, npm, Python y NuGet.
+  - **Ejemplo**: Un proyecto puede utilizar Azure Artifacts para gestionar y compartir bibliotecas internas de código entre diferentes equipos.
+
+- **Azure Test Plans**: Solución para pruebas planeadas y exploratorias.
+  - **Ejemplo**: Un equipo de QA puede crear y ejecutar planes de prueba detallados para asegurar la calidad del software antes de su lanzamiento.
+
+Además, Azure DevOps puede orquestar herramientas de terceros, permitiendo una integración fluida con otras plataformas y servicios utilizados por el equipo de desarrollo.
+
+En resumen, Azure DevOps es una solución completa para la gestión del ciclo de vida del desarrollo de software, proporcionando herramientas esenciales para cada etapa, desde la planificación hasta la entrega y pruebas.
