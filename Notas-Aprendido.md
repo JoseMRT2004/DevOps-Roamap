@@ -25,9 +25,25 @@ Al adoptar prácticas de DevOps:
 - Mejorar la telemetría.
 - Implementar con más frecuencia.
 
-<hr>
+#  ¿Qué es Git?
 
-# ¿Qué es GitHub?
+Es una herramienta que facilita el versionamiento de codigo funte, puedes consultar el historial de cambio y moverte de un punto espesifico a de tu codigo te permite asociar un cambio a una persona.
+
+Los comandos de uso usual son:
+
+- git init 
+- git clone 
+- git add 
+- git commit 
+- git log 
+- git diff
+- git merge
+- git rebase
+- git pull
+- git fetch
+- git push 
+
+## ¿Qué es GitHub?
 
 GitHub es una plataforma de Software como Servicio (SaaS) de Microsoft que proporciona repositorios basados en Git y herramientas de DevOps para desarrollar e implementar software. Tiene una amplia gama de integraciones con otras herramientas líderes.
 
@@ -51,7 +67,6 @@ GitHub ofrece una variedad de servicios para el desarrollo y la implementación 
 
 En resumen, GitHub es una herramienta integral para la colaboración y la gestión del ciclo de vida del desarrollo de software, facilitando desde la codificación hasta la implementación segura y eficiente del software.
 
-<hr>
 
 # ¿Qué es Azure DevOps?
 
