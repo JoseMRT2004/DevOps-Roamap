@@ -1,4 +1,4 @@
-# **Plan de Estudio DevOps 🛠️**
+# **Plan de Estudio DevOps ☁️🛠️**
 
 _Este plan de estudio está diseñado para guiarte a través de los fundamentos y el desarrollo avanzado de DevOps. Incorpora metas semanales y mensuales con ejercicios específicos, y cada meta se puede marcar como completada sustituyendo los corchetes por `✅`._
 
